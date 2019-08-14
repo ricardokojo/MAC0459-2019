@@ -6,9 +6,11 @@
 
 **Página do professor**: [https://www.ime.usp.br/hirata](https://www.ime.usp.br/hirata)
 
+**Página da disciplina**: *no Paca*
+
 **Forma de Avaliação**: TODO
 
-**Cobra presença?** TODO
+**Cobra presença?** Sim, faz chamada ao **final** (grr) da aula
 
 ## Comentários sobre a matéria
 
